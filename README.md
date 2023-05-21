@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi, I'm Soham Dutta
 
-<!--
-**shm-dsgn/shm-dsgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![shm-dsgn](https://komarev.com/ghpvc/?username=shm-dsgn&color=22272e)
 
-Here are some ideas to get you started:
+<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api?username=shm-dsgn&show_icons=true&border_radius=5&theme=github_dark_dimmed" alt="shm-dsgn's stats"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :mailbox_with_mail: Reach me at <a href="mailto:sohamdutta2001@gmail.com" target="_blank">sohamdutta2001@gmail.com </a>
+- :briefcase: I have experience working with **JavaScript, ReactJS** applications
+- :books: I'm currently learning **NodeJS, Express and MongoDB**
+
+### What I Use :computer:
+
+| Technology Group | Technologies |
+| :---: | :---: |
+| Languages | ![Javascript](https://img.shields.io/badge/-Javascript-22272e?logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-22272e?logo=html5) |
+| Frameworks | ![React](https://img.shields.io/badge/-React-22272e?logo=react) |
+| Version Control | ![Git](https://img.shields.io/badge/-Git-22272e?logo=git) |
+| Styling | ![CSS](https://img.shields.io/badge/-CSS-22272e?logo=css3&logoColor=1572B6) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-22272e?logo=tailwind-css) |
+| Package Managers | ![NPM](https://img.shields.io/badge/-NPM-22272e?logo=npm) |
+| Documentation | ![Markdown](https://img.shields.io/badge/-Markdown-22272e?logo=markdown) |
+| Deployment | ![Netlify](https://img.shields.io/badge/-Netlify-22272e?logo=netlify) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-22272e?logo=cloudflare) |
+| Editors |  ![VSCode](https://img.shields.io/badge/-VSCode-22272e?logo=visual-studio-code&logoColor=007ACC) |
+| Other | ![GitHub](https://img.shields.io/badge/-GitHub-22272e?logo=github) 
+<!-- ![React Native](https://img.shields.io/badge/-React%20Native-22272e?logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-22272e?logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-22272e?logo=express)&nbsp; 
+![Yarn](https://img.shields.io/badge/-Yarn-22272e?logo=yarn)
+![Typescript](https://img.shields.io/badge/-Typescript-22272e?logo=typescript)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-22272e?logo=styled-components)
+![Next.js](https://img.shields.io/badge/-Next.js-22272e?logo=next.js) ![Vite](https://img.shields.io/badge/-Vite-22272e?logo=vite)-->
