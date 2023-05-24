@@ -12,7 +12,7 @@
 | Technology Group | Technologies |
 | :---: | :---: |
 | Languages | ![Javascript](https://img.shields.io/badge/-Javascript-22272e?logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-22272e?logo=html5) |
-| Frameworks | ![React](https://img.shields.io/badge/-React-22272e?logo=react) |
+| Frameworks | ![React](https://img.shields.io/badge/-React-22272e?logo=react) ![Vite](https://img.shields.io/badge/-Vite-22272e?logo=vite)|
 | Version Control | ![Git](https://img.shields.io/badge/-Git-22272e?logo=git) |
 | Styling | ![CSS](https://img.shields.io/badge/-CSS-22272e?logo=css3&logoColor=1572B6) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-22272e?logo=tailwind-css) |
 | Package Managers | ![NPM](https://img.shields.io/badge/-NPM-22272e?logo=npm) |
