@@ -1,9 +1,11 @@
 ### Hi, I'm Soham Dutta
 
-![shm-dsgn](https://komarev.com/ghpvc/?username=shm-dsgn&color=22272e)
-- :mailbox_with_mail: Reach me at <a href="mailto:sohamdutta2001@gmail.com" target="_blank">sohamdutta2001@gmail.com </a>
 - :briefcase: I have experience working with **JavaScript, ReactJS** applications
 - :books: I'm currently learning **NodeJS, Express and MongoDB**
+- :mailbox_with_mail: Reach me at <a href="mailto:sohamdutta2001@gmail.com" target="_blank">sohamdutta2001@gmail.com </a>
+
+![shm-dsgn](https://komarev.com/ghpvc/?username=shm-dsgn&color=22272e)
+
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=shm-dsgn&show_icons=true&border_radius=5&theme=github_dark_dimmed" alt="shm-dsgn's stats"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shm-dsgn&show_icons=true&locale=en&layout=compact" alt="shm-dsgn" />
 
