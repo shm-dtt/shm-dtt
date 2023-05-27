@@ -7,8 +7,6 @@
 ![shm-dsgn](https://komarev.com/ghpvc/?username=shm-dsgn&color=22272e)
 
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shm-dsgn&show_icons=true&border_radius=5&theme=github_dark_dimmed" alt="shm-dsgn's stats"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shm-dsgn&show_icons=true&locale=en&layout=compact" alt="shm-dsgn" />
-
 ### What I Use :computer:
 
 | Technology Group | Technologies |
@@ -29,3 +27,7 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-22272e?logo=typescript)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-22272e?logo=styled-components)
 ![Next.js](https://img.shields.io/badge/-Next.js-22272e?logo=next.js) ![Vite](https://img.shields.io/badge/-Vite-22272e?logo=vite)-->
+
+
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shm-dsgn&show_icons=true&border_radius=5&theme=github_dark_dimmed" alt="shm-dsgn's stats"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shm-dsgn&show_icons=true&locale=en&layout=compact" alt="shm-dsgn" />
