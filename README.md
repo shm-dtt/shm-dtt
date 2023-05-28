@@ -1,5 +1,6 @@
 ### Hi, I'm Soham Dutta
 
+- :globe_with_meridians: Visit [my portfolio](https://shm-dsgn.me)
 - :briefcase: I have experience working with **JavaScript, ReactJS** applications
 - :books: I'm currently learning **NodeJS, Express and MongoDB**
 - :mailbox_with_mail: Reach me at <a href="mailto:sohamdutta2001@gmail.com" target="_blank">sohamdutta2001@gmail.com </a>
