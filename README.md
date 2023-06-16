@@ -1,9 +1,9 @@
 ### Hi, I'm Soham Dutta
 
-- :globe_with_meridians: Visit [my portfolio](https://shm-dsgn.me)
+- :globe_with_meridians: Visit my portfolio : [shm-dsgn.me](https://shm-dsgn.me)
 - :briefcase: I have experience working with **JavaScript, ReactJS** applications
 - :books: I'm currently learning **NodeJS, Express and MongoDB**
-- :mailbox_with_mail: Reach me at <a href="mailto:sohamdutta2001@gmail.com" target="_blank">sohamdutta2001@gmail.com </a>
+- :mailbox_with_mail: Reach me at <a href="mailto:mail@shm-dsgn.me" target="_blank">mail@shm-dsgn.me </a>
 
 ![shm-dsgn](https://komarev.com/ghpvc/?username=shm-dsgn&color=22272e)
 
@@ -12,7 +12,7 @@
 
 | Technology Group | Technologies |
 | :---: | :---: |
-| Languages | ![Javascript](https://img.shields.io/badge/-Javascript-22272e?logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-22272e?logo=html5) |
+| Languages | ![Javascript](https://img.shields.io/badge/-Javascript-22272e?logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-22272e?logo=html5) ![Typescript](https://img.shields.io/badge/-Typescript-22272e?logo=typescript)|
 | Frameworks | ![React](https://img.shields.io/badge/-React-22272e?logo=react) ![Vite](https://img.shields.io/badge/-Vite-22272e?logo=vite)|
 | Version Control | ![Git](https://img.shields.io/badge/-Git-22272e?logo=git) |
 | Databases | ![Firebase](https://img.shields.io/badge/-Firebase-22272e?logo=firebase) |
