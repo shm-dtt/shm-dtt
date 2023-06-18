@@ -32,5 +32,5 @@
 
 
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shm-dsgn&show_icons=true&border_radius=5&theme=github_dark_dimmed" alt="shm-dsgn's stats"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shm-dsgn&show_icons=true&locale=en&layout=compact" alt="shm-dsgn" />. 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shm-dsgn&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shm-dsgn&show_icons=true&theme=transparent" alt="shm-dsgn's stats"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shm-dsgn&show_icons=true&locale=en&layout=compact&theme=transparent" alt="shm-dsgn" />. 
+[![GitHub Streak](https://streak-stats.demolab.com?user=shm-dsgn&theme=transparent&hide_border=false)](https://git.io/streak-stats)
