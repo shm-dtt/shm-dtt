@@ -1,4 +1,6 @@
-### Hi, I'm Soham Dutta
+### Hi, I'm Soham Dutta <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" />
+
+I like web development <img align=center src="https://user-images.githubusercontent.com/26017543/213364962-e9e6b262-0dc8-4cca-9914-7f336340e26d.png" alt="Web" width="24" height="24" />
 
 - :globe_with_meridians: Visit my portfolio : [shm-dsgn.me](https://shm-dsgn.me)
 - :briefcase: I have experience working with **JavaScript, MERN stack** applications
