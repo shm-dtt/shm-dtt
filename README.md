@@ -30,9 +30,5 @@ I like web development <img align=center src="https://user-images.githubusercont
 ![Yarn](https://img.shields.io/badge/-Yarn-22272e?logo=yarn)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-22272e?logo=styled-components)
 ![Next.js](https://img.shields.io/badge/-Next.js-22272e?logo=next.js) ![Vite](https://img.shields.io/badge/-Vite-22272e?logo=vite)
-
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shm-dsgn&show_icons=true&theme=transparent" alt="shm-dsgn's stats"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shm-dsgn&show_icons=true&locale=en&layout=compact&theme=transparent" alt="shm-dsgn" />. 
-
-
 -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shm-dsgn&show_icons=true&theme=transparent" alt="shm-dsgn's stats"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shm-dsgn&show_icons=true&locale=en&layout=compact&theme=transparent" alt="shm-dsgn" />
