@@ -4,7 +4,7 @@ I like web development <img align=center src="https://user-images.githubusercont
 
 - :globe_with_meridians: Visit my portfolio : [shm-dsgn.me](https://shm-dsgn.me)
 - :briefcase: I have experience working with **JavaScript, MERN stack** applications
-- :books: I'm currently learning about **MERN stack applications**
+- :books: I'm currently learning **Java and SpringBoot, Thymeleaf and Polymer**
 - :mailbox_with_mail: Reach me at <a href="mailto:mail@shm-dsgn.me" target="_blank">mail@shm-dsgn.me </a>
 
 ![shm-dsgn](https://komarev.com/ghpvc/?username=shm-dsgn&color=22272e)
