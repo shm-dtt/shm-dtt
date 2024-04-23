@@ -1,4 +1,6 @@
 ### Hi, I'm Soham Dutta, a full stack developer.
+![Frame 2](https://github.com/shm-dsgn/shm-dsgn/assets/77527904/7bc4c976-bf90-4dde-bc13-115e5e193943)
+
 
 I'm currently working as a Student Intern in Nokia in Bangalore, India.
 
