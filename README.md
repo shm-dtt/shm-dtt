@@ -1,8 +1,8 @@
-![Frame 2](https://github.com/shm-dsgn/shm-dsgn/assets/77527904/7bc4c976-bf90-4dde-bc13-115e5e193943)
+![Frame 2](https://github.com/shm-dsgn/shm-dsgn/assets/77527904/4cac85f2-90b1-4a0a-bce3-83fc126972dd)
 
 ### Hi, I'm Soham Dutta, a full stack developer.
 
-I'm currently working as a Student Intern in Nokia in Bangalore, India.
+I'm currently working as a Junior Network Engineer in Nokia in Bangalore, India.
 
 - :globe_with_meridians: Visit my portfolio : [sohamdutta.in](https://sohamdutta.in)
 - :briefcase: I have experience working with **JS, TS, MERN Stack, Java, Spring-Boot, SQL**. For more info, check out my [resume](https://sohamdutta.in/resume)
