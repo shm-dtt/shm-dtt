@@ -2,7 +2,7 @@
 
 ### Hi, I'm Soham Dutta, a full stack developer.
 
-I'm currently working as a Junior Network Engineer in Nokia in Bangalore, India.
+I'm currently working as an Applied R&D Software Engineer in Nokia in Bangalore, India.
 
 - :globe_with_meridians: Visit my portfolio : [sohamdutta.in](https://sohamdutta.in)
 - :briefcase: I have experience working with **JS, TS, MERN Stack, Java, Spring-Boot, SQL**. For more info, check out my [resume](https://sohamdutta.in/resume)
