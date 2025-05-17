@@ -1,4 +1,4 @@
-![Frame 2](https://github.com/shm-dtt/shm-dtt/assets/77527904/4cac85f2-90b1-4a0a-bce3-83fc126972dd)
+![Frame 2](https://github.com/user-attachments/assets/99029881-039d-467d-97d9-258e1541e1c9)
 
 ### Hi, I'm Soham Dutta, a full stack developer.
 
