@@ -5,7 +5,7 @@ software engineer crafting clean UIs and smooth user experiences. passionate abo
 - building internal tools and automation systems for large-scale pan-India telecom networks at [Nokia](https://www.nokia.com/) 
 - strong believer in minimal design, fast interfaces, and products that do one thing really well.
 
-comfortable across the stack — from designing thoughtful interfaces to building backend systems in javascript, spring boot and python.
+comfortable across the stack — from designing thoughtful interfaces to building backend systems in javascript, spring-boot and python.
 
 [portfolio](https://sohamdutta.in) • [contact me](mailto:shmdsgn@gmail.com)
 
