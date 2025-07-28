@@ -1,4 +1,4 @@
-![Frame 2](https://github.com/user-attachments/assets/99029881-039d-467d-97d9-258e1541e1c9)
+<!--![Frame 2](https://github.com/user-attachments/assets/99029881-039d-467d-97d9-258e1541e1c9)-->
 
 software engineer crafting clean UIs and smooth user experiences. passionate about building simple, useful products that solve everyday problems — from browser extensions to tiny tools that just make life easier.
 
