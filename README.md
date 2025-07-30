@@ -2,7 +2,7 @@
 
 software engineer crafting clean UIs and smooth user experiences. passionate about building simple, useful products that solve everyday problems — from browser extensions to tiny tools that just make life easier.
 
-- building internal tools and automation systems for large-scale pan-India telecom networks at [Nokia](https://www.nokia.com/) 
+- building internal tools and automation systems for large-scale pan-India telecom networks at [NOKIA](https://www.nokia.com/) 
 - strong believer in minimal design, fast interfaces, and products that do one thing really well.
 
 comfortable across the stack — from designing thoughtful interfaces to building backend systems in javascript, spring-boot and python.
