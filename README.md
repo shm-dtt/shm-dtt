@@ -10,3 +10,10 @@ comfortable across the stack — from designing thoughtful interfaces to buildin
 [portfolio](https://sohamdutta.in) • [contact me](mailto:shmdsgn@gmail.com)
 
 <!--<img height="165em" src="https://github-readme-stats.vercel.app/api?username=shm-dtt&show_icons=true&theme=transparent" alt="shm-dtt's stats"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shm-dtt&show_icons=true&locale=en&layout=compact&theme=transparent" alt="shm-dtt" />-->
+
+
+<details>
+<summary>github stats.</summary>
+<br>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=shm-dtt&show_icons=true&theme=transparent" alt="shm-dtt's stats"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shm-dtt&show_icons=true&locale=en&layout=compact&theme=transparent" alt="shm-dtt" />
+</details>
